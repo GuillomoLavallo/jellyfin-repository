@@ -10,7 +10,7 @@
             {
                 "version": "10.9.6.13",
                 "changelog": "Follow Jellyfin versioning to make compatibility obvious",
-                "targetAbi": "10.9.1.0",
+                "targetAbi": "10.11.0",
                 "sourceUrl": "https://raw.githubusercontent.com/jwueller/jellyfin-repository/master/one-pace/one-pace_10.9.6.13.zip",
                 "checksum": "65eecaca170a4116a3c4b69f5348adea",
                 "timestamp": "2024-06-07T12:53:38Z"
